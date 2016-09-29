@@ -1,0 +1,46 @@
+background-color{
+	
+}
+
+body{
+	font-family: "Century Gothic";
+	color: #26004d;
+	background-color: #e6e6ff
+}
+
+h1 {
+	font-size: 6.5em;
+	text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+table {
+	font-family: "Century Gothic";
+	font-size: .8em;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+p {
+	font-size: 1.5em;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#9FB6CD; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #003366;
+}
