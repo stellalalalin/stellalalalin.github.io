@@ -1,27 +1,18 @@
-background-color{
-	
-}
-
-body{
-	font-family: "Century Gothic";
-	color: #26004d;
-	background-color: #e6e6ff
+body {
+    background: url(Portfolio/Images/galaxy2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Century Gothic";
+	color: #ffffff;
 }
 
 h1 {
-	font-size: 6.5em;
+	font-size: 5em;
 	text-align: center;
 }
 
 img{
     display: block;
-    margin-left: auto;
-    margin-right: auto 
-}
-
-table {
-	font-family: "Century Gothic";
-	font-size: .8em;
     margin-left: auto;
     margin-right: auto 
 }
@@ -33,14 +24,20 @@ p {
 	margin-right: auto;
 }
 
-tr {
-	border: 1px solid #ffffff;
-	text-align: center;
-	background-color:#9FB6CD; 
+table {
+	border: 3px solid #99ffdd;
+	text-align:center;
+	border-spacing:5px;
+	border-radius:15%;
 }
 
-th {
-	text-align: center;
-	color: #ffffff;
-	background-color: #003366;
+a:visited, a:link {
+	color: #66b3ff;
+	text-decoration:underline;
+}
+
+a:hover{
+	text-decoration: none;
+	background-color: #ffffff;
+	color:#ffffff ;
 }
